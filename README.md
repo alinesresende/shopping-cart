@@ -1,7 +1,7 @@
 
-## Shopping Cart 🛒
+## Project Shopping Cart 🛒
 
-🔹The development of the Shopping Cart project focused on Asynchronous JavaScript, using the Mercado Livre API.
+🔹The development of the Shopping Cart project focused on Asynchronous JavaScript, using the ``Mercado Livre API``.
 
 🔹In the application, I used the Mercado Livre API to ``list products`` and develop a dynamic ``shopping e-commerce``.
 
