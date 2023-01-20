@@ -7,11 +7,12 @@ In the application, I used the Mercado Livre API to ``list products`` and develo
 
 I also used the API to:
 
-```jsx
+```
 ▪️ Add these products to cart
 ▪️ Remove products from cart
 ▪️ Update cart total price in real time
 ```
+When loading the page, items added to the shopping cart are retrieved from LocalStorage.
 
 I also used the ``AwesomeAPI`` and ``BrasilAPI-CEP`` APIs to obtain location data based on the informed zip code.
 
