@@ -18,6 +18,31 @@ I also used the ``AwesomeAPI`` and ``BrasilAPI-CEP`` APIs to obtain the location
 
 I developed unit tests to validate functions using the Jest Framework.
 
+## ⚡ Do you want to access the application?
+
+#### 1. Clone this repository
+
+```
+git clone git@github.com:alinesresende/shopping-cart.git
+```
+
+#### 2. Navigate to the project directory
+
+```
+cd shopping-cart
+```
+
+#### 3. Install the dependencies
+
+```
+npm install
+```
+
+#### 4. Start the React app in development mode
+
+```
+npm start
+```
 
 > Deploy: https://lnkd.in/dvSdiwyf
 
