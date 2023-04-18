@@ -1,5 +1,7 @@
 
-## Shopping Cart 🛒
+## Shopping Cart 🛒🛍️
+
+### Application with Mercado Livre API
 
 The development of the Shopping Cart project was focused on Asynchronous JavaScript, using the ``Mercado Livre API``.
 
@@ -17,6 +19,13 @@ When loading the page, items added to the shopping cart are retrieved from Local
 I also used the ``AwesomeAPI`` and ``BrasilAPI-CEP`` APIs to obtain the location data based on the informed zip code.
 
 I developed unit tests to validate functions using the Jest Framework.
+
+<details>
+ <summary><strong>📱 Layout Application</strong></summary><br />
+
+<img src= 'https://user-images.githubusercontent.com/115574024/232637560-9d1429c5-48b4-469c-95e2-cea882719554.png'/>
+
+</details>
 
 ## ⚡ Do you want to access the application?
 
