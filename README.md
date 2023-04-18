@@ -50,7 +50,7 @@ npm install
 #### 4. Start the React app in development mode
 
 ```
-npm start
+npm vite
 ```
 
 > Deploy: https://lnkd.in/dvSdiwyf
